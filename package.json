@@ -1,7 +1,7 @@
 {
 	"author": "Rudolf Ocran",
-	"name": "fcc-learn-npm-package-json",
-	"description": "An FCC text project",
+	"name": "package-json with NPM with node.js capabilities",
+	"description": "node.js related application",
 	"keywords": [
 		"Stores key info",
 		"node.js",
